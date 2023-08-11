@@ -1,1 +1,1 @@
-# harsh-project-1
+This is an online food ordering app.
